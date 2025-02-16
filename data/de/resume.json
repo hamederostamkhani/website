@@ -1,0 +1,431 @@
+{
+  "name": "Hamed Rostamkhani",
+  "titles": "Softwareingenieur & Full-Stack-Entwickler",
+  "photo": "/images/profile.webp",
+  "socialLinks": [
+    {
+      "name": "Email",
+      "description": "E-Mail senden",
+      "href": "mailto:hamederostamkhani@gmail.com"
+    },
+    {
+      "name": "Location",
+      "description": "Standort anzeigen",
+      "href": "https://www.google.com/maps?q=Zanjan"
+    },
+    {
+      "name": "LinkedIn",
+      "description": "LinkedIn-Profil",
+      "href": "https://www.linkedin.com/in/hamed-rostamkhani/"
+    },
+    {
+      "name": "Telegram",
+      "description": "Telegram-Kontakt",
+      "href": "https://t.me/hamed_rostamkhani"
+    },
+    {
+      "name": "GitHub",
+      "description": "GitHub-Profil",
+      "href": "https://github.com/hamederostamkhani"
+    }
+  ],
+  "aboutMe": {
+    "starting": "Ich bin ein Softwareentwickler & Full-Stack-Entwickler mit über 5 Jahren Erfahrung in der Entwicklung skalierbarer und leistungsstarker Anwendungen. Meine Fachkenntnisse liegen in Java, Spring Boot, Vue.js und der Microservices-Architektur. Mit einem starken Hintergrund in Backend-Entwicklung, Frontend-Design und Datenbankoptimierung habe ich eine Leidenschaft für die Entwicklung effizienter, robuster und skalierbarer Systeme. In die Zukunft blickend, strebe ich danach, IoT- und Microservices-Konzepte zu integrieren, um intelligente, automatisierte und global vernetzte Systeme zu entwickeln, die das tägliche Leben verbessern.",
+    "whatIDo": {
+      "title": "Was ich mache",
+      "list": [
+        "Entwicklung und Design von Microservices-Architekturen, um Skalierbarkeit und Flexibilität zu gewährleisten.",
+        "Optimierung der Backend-Leistung und Datenbankabfragen für maximale Effizienz.",
+        "Entwicklung robuster Backend-Systeme mit Java und Spring Boot, die verschiedene Geschäftsanforderungen unterstützen.",
+        "Arbeiten mit modernen Technologien wie Docker und Git, um Entwicklungs- und Bereitstellungsprozesse zu verbessern.",
+        "Anwendung von SOLID-Prinzipien und Design Patterns, um wartbare und skalierbare Anwendungen zu erstellen.",
+        "Implementierung von RESTful APIs, die eine nahtlose Kommunikation zwischen Diensten ermöglichen."
+      ]
+    },
+    "closing": "💡 Immer am Lernen, 🚀 immer am Verbessern"
+  },
+  "careers": [
+    {
+      "logo": "/images/logo/iasbs.webp",
+      "name": "Institute for advanced study in basic science",
+      "websiteLink": "https://iasbs.ac.ir/",
+      "position": "Full-Stack-Softwareingenieur | IT-Spezialist",
+      "duration": "Apr. 2023 - Okt. 2024",
+      "location": "Iran, Zandschan",
+      "description": "Meine letzte berufliche Erfahrung war an der Universität für Höhere Studien in den Grundwissenschaften in Zanjan, wo ich als Softwareingenieur und IT-Spezialist tätig war. In dieser Zeit habe ich mehrere Mini-Apps entworfen und implementiert. Zusätzlich habe ich als technische Unterstützung bei der Organisation verschiedener akademischer Konferenzen und Veranstaltungen mitgewirkt und dafür gesorgt, dass diese Veranstaltungen reibungslos abliefen. Für die Implementierung dieser Mini-Apps habe ich neue Sprachen und Technologien verwendet, die größtenteils auf PHP basierten. Darüber hinaus setzte ich meine Studien im Bereich Softwareentwicklung fort und entwickelte mehrere Projekte unter Verwendung meiner bevorzugten Sprache und Frameworks (Spring und Vue.js) sowie Tools wie Docker, Git und Datenbanken wie MongoDB und PostgreSQL."
+    },
+    {
+      "logo": "/images/logo/mavaraTech.webp",
+      "name": "MavaraTech GmbH",
+      "websiteLink": "https://www.mavaratech.com/",
+      "position": "Full-Stack-Softwareingenieur",
+      "duration": "Feb. 2021 - Apr. 2022",
+      "location": "Iran, Teheran",
+      "description": "Mein Hauptfokus in dieser Phase lag auf der fortgeschrittenen Entwicklung von Mikrodiensten, insbesondere auf dem Log-Management für diese Systeme. Darüber hinaus arbeitete ich mit Behsat (Hamrah Aval) im Bereich Log-Management und konnte Lösungen für einige ihrer Herausforderungen vorschlagen.\n\nMavaratech (Mavaratech Technology) ist auf die Entwicklung von verteilten Systemen und API-Management spezialisiert. Meine Zusammenarbeit mit diesem Unternehmen dauerte fast ein Jahr, in dem ich an der Entwicklung des Log-Management- und Überwachungssystems für ihr Hauptprodukt Integropia arbeitete. Für diese Entwicklung des verteilten Systems verwendete ich Technologien wie Spring, Splunk, Redis und andere. Außerdem führte ich vier Monate lang in Zusammenarbeit mit Hamrah Aval Studien zu den Software-System-Logs des Unternehmens durch und implementierte eine maßgeschneiderte Log-Management-Softwarelösung basierend auf diesen Erkenntnissen."
+    },
+    {
+      "logo": "/images/logo/freelancer.svg",
+      "name": "Freiberuflich",
+      "position": "Full-Stack-Entwickler",
+      "duration": "Aug. 2018 - Juni 2020",
+      "location": "Iran, Zandschan",
+      "description": "In meiner zweiten beruflichen Phase konzentrierte ich mich auf fortgeschrittene Softwarearchitekturen und begann mit der Entwicklung einiger der wichtigsten Architekturen, insbesondere der Mikroservices-Architektur. Während dieser Zeit machte ich mich mit moderneren und fortschrittlicheren Frameworks, Technologien und Tools vertraut.\n\nDie meisten Konzepte, Werkzeuge und Technologien, die ich in diesem Zeitraum nutzte, standen im Zusammenhang mit verteilten Systemen, insbesondere in Mikroservices. Einige der wichtigsten sind:",
+      "points": [
+        "Vertiefte Analyse von Datenbanken (Relationale: PostgreSQL, Nicht-relationale: MongoDB)",
+        "Untersuchung von Architekturen und Entwurfsmustern verteilter Systeme, einschließlich der Kommunikation zwischen Komponenten, der Bedeutung von Message Brokers und der Struktur und Architektur von API Gateways in solchen Systemen.",
+        "Implementierung mehrerer größerer Systeme mit diesen Architekturen, wobei die Bereitstellung der Systemkomponenten mit Docker erfolgte."
+      ]
+    },
+    {
+      "logo": "/images/logo/behinsayar.webp",
+      "name": "Pardazeshgaran Behin Sayar GmbH",
+      "websiteLink": "https://sayar.org/",
+      "position": "Back-End-Entwickler",
+      "duration": "Juni 2017 - Juli 2018",
+      "location": "Iran, Zandschan",
+      "description": "Meine erste Berufserfahrung sammelte ich in diesem Unternehmen mit dem Patientenmanagement-Projekt im Krankenhaus von Abhar. Während dieser Zeit habe ich mich intensiv mit Java und dem Spring-Framework vertraut gemacht und konnte diese beiden leistungsstarken Werkzeuge als meine primären Technologien auswählen.\n\nZusätzlich zu Java und Spring sammelte ich Erfahrungen mit SQL-Datenbanken (MySQL und insbesondere PostgreSQL) sowie NoSQL-Datenbanken (hauptsächlich MongoDB). Anfangs verwendete ich hauptsächlich ORMs wie Hibernate, um Datenbankoperationen durchzuführen, und arbeitete nicht direkt mit den nativen Funktionen der Datenbanken.\n\nNeben den Backend-Technologien lernte ich auch das Angular-Framework kennen und entwickelte mein zweites Projekt (Sama System – UI Builder Projekt) auf Anfängerniveau."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Webanwendungen",
+      "list": [
+        {
+          "title": "Veranstaltungsplanungsystem",
+          "description": "Diese Seite zeigt den Veranstaltungsplan des Instituts für Fortgeschrittene Studien in den Grundwissenschaften. Benutzer können die Programme der Veranstaltungen nach verschiedenen Sälen anzeigen. Ich habe dieses Projekt als Full-Stack-Entwickler entwickelt, wobei das Backend Teil des Phoenix-Systems des Instituts ist.",
+          "imageUrl": "/images/projects/conference_schedule.webp",
+          "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
+          "startDate": "2023-07-08",
+          "endDate": "2023-09-20",
+          "tags": [
+            "PHP",
+            "Codeigniter",
+            "JavaScript",
+            "MySQL"
+          ]
+        },
+        {
+          "title": "Konferenzverläufe",
+          "description": "Die Seite zeigt bevorstehende und vergangene Konferenzen des Instituts für fortgeschrittene Studien in den Grundwissenschaften, einschließlich der Namen von Veranstaltungen, Daten und Themen wie „8. Erdwissenschaften-Schule“ und „26. Treffen zur Forschung in der Astronomie“. Dieses Projekt wurde von mir geleitet, wobei ich die Seite entworfen und das Backend im Phoenix-System des Instituts entwickelt habe. Außerdem habe ich viel Mühe in die Sammlung und Organisation der hier angezeigten Daten investiert.",
+          "imageUrl": "/images/projects/conference_histories.webp",
+          "demoUrl": "https://iasbs.ac.ir/conference_history",
+          "startDate": "2024-02-20",
+          "endDate": "2024-05-19",
+          "tags": [
+            "PHP",
+            "Codeigniter",
+            "JavaScript",
+            "MySQL",
+            "TailwindCSS"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programmiersprachen",
+      "subtitle": "Diese Kategorie umfasst verschiedene Sprachen, Skripte und Auszeichnungssprachen, mit denen ich in den letzten Jahren gearbeitet habe",
+      "logo": "/images/skills/programingIcon.svg",
+      "list": [
+        {
+          "name": "Java",
+          "icon": "/images/skills/programming/java.svg",
+          "level": "5+ Jahre"
+        },
+        {
+          "name": "Groovy",
+          "icon": "/images/skills/programming/groovy.svg",
+          "level": "3 Jahre"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "/images/skills/programming/javascript.svg",
+          "level": "4+ Jahre"
+        },
+        {
+          "name": "Kotlin",
+          "icon": "/images/skills/programming/kotlin.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "PHP",
+          "icon": "/images/skills/programming/php.svg",
+          "level": "1+ Jahre"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "/images/skills/programming/typescript.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "HTML 5",
+          "icon": "/images/skills/programming/html.svg",
+          "level": "4 Jahre"
+        },
+        {
+          "name": "CSS 3",
+          "icon": "/images/skills/programming/css.svg",
+          "level": "4 Jahre"
+        },
+        {
+          "name": "SQL",
+          "icon": "/images/skills/programming/sql.svg",
+          "level": "5+ Jahre"
+        },
+        {
+          "name": "Python",
+          "icon": "/images/skills/programming/python.svg",
+          "level": "1 Jahr"
+        }
+      ]
+    },
+    {
+      "title": "Frameworks & Bibliotheken",
+      "subtitle": "Diese Kategorie enthält eine Vielzahl moderner Frameworks und Bibliotheken, die ich zum Erstellen von Anwendungen verwendet habe",
+      "logo": "/images/skills/libraryIcon.svg",
+      "list": [
+        {
+          "name": "Spring",
+          "icon": "/images/skills/frameworks/spring.svg",
+          "level": "5+ Jahre"
+        },
+        {
+          "name": "Vue.js",
+          "icon": "/images/skills/frameworks/vue.svg",
+          "level": "4+ Jahre"
+        },
+        {
+          "name": "Hibernate",
+          "icon": "/images/skills/frameworks/hibernate.svg",
+          "level": "4+ Jahre"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "/images/skills/frameworks/tailwind.svg",
+          "level": "3+ Jahre"
+        },
+        {
+          "name": "Angular (2+)",
+          "icon": "/images/skills/frameworks/angular.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Laravel",
+          "icon": "/images/skills/frameworks/laravel.svg",
+          "level": "1+ Jahre"
+        },
+        {
+          "name": "Node.js",
+          "icon": "/images/skills/frameworks/nodejs.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Express.js",
+          "icon": "/images/skills/frameworks/express.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "/images/skills/frameworks/bootstrap.svg",
+          "level": "1 Jahr"
+        }
+      ]
+    },
+    {
+      "title": "Datenbanken",
+      "subtitle": "Diese Kategorie umfasst verschiedene Datenbanktechnologien, mit denen ich arbeite, wie SQL, NoSQL, In-Memory- und Zeitreihen-Datenbanken",
+      "logo": "/images/skills/databaseIcon.svg",
+      "list": [
+        {
+          "name": "MySQL",
+          "icon": "/images/skills/database/mysql.svg",
+          "level": "5+ Jahre"
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": "/images/skills/database/postgresql.svg",
+          "level": "4+ Jahre"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "/images/skills/database/mongodb.svg",
+          "level": "1+ Jahre"
+        },
+        {
+          "name": "Redis",
+          "icon": "/images/skills/database/redis.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Splunk",
+          "icon": "/images/skills/database/splunk.svg",
+          "level": "1 Jahr"
+        }
+      ]
+    },
+    {
+      "title": "Werkzeuge & Technologien",
+      "subtitle": "Diese Kategorie enthält eine Sammlung wesentlicher Werkzeuge und Technologien für die Entwicklung, Containerisierung, Versionskontrolle, API-Tests und Projektmanagement",
+      "logo": "/images/skills/toolsIcon.svg",
+      "list": [
+        {
+          "name": "Docker",
+          "icon": "/images/skills/tools/docker.svg",
+          "level": "3+ Jahre"
+        },
+        {
+          "name": "Git",
+          "icon": "/images/skills/tools/git.svg",
+          "level": "3+ Jahre"
+        },
+        {
+          "name": "Linux",
+          "icon": "/images/skills/tools/linux.svg",
+          "level": "5+ Jahre"
+        },
+        {
+          "name": "Insomnia",
+          "icon": "/images/skills/tools/insomnia.svg",
+          "level": "2+ Jahre"
+        },
+        {
+          "name": "Postman",
+          "icon": "/images/skills/tools/postman.svg",
+          "level": "2+ Jahre"
+        },
+        {
+          "name": "Swagger",
+          "icon": "/images/skills/tools/swagger.svg",
+          "level": "1+ Jahre"
+        },
+        {
+          "name": "Trello",
+          "icon": "/images/skills/tools/trello.svg",
+          "level": "1+ Jahre"
+        }
+      ]
+    },
+    {
+      "title": "Konzepte",
+      "subtitle": "Diese Kategorie umfasst wichtige Konzepte der Softwareentwicklung, die ich durch meine Ausbildung und Erfahrung seit meinem Einstieg in diesem Bereich gelernt habe",
+      "logo": "/images/skills/conceptIcon.svg",
+      "list": [
+        {
+          "name": "RESTful APIs",
+          "icon": "/images/concept/api.svg",
+          "level": "5+ Jahre"
+        },
+        {
+          "name": "Microservices",
+          "icon": "/images/concept/microservices.svg",
+          "level": "3+ Jahre"
+        },
+        {
+          "name": "Distributed Systems",
+          "icon": "/images/concept/distributed.svg",
+          "level": "3+ Jahre"
+        },
+        {
+          "name": "SOLID Principles",
+          "icon": "/images/concept/solid.svg",
+          "level": "4+ Jahre"
+        },
+        {
+          "name": "Design Patterns",
+          "icon": "/images/concept/pattern.svg",
+          "level": "3+ Jahre"
+        },
+        {
+          "name": "Agile Methodologies",
+          "icon": "/images/concept/agile.svg",
+          "level": "2+ Jahre"
+        },
+        {
+          "name": "Security",
+          "icon": "/images/concept/security.svg",
+          "level": "1+ Jahre"
+        },
+        {
+          "name": "Containerization",
+          "icon": "/images/concept/containerization.svg",
+          "level": "2+ Jahre"
+        }
+      ]
+    },
+    {
+      "title": "Sprachkenntnisse",
+      "subtitle": "Die Sprachen, die ich spreche und in verschiedenen Kontexten verwendet habe",
+      "logo": "/images/skills/languageIcon.svg",
+      "list": [
+        {
+          "name": "Englisch",
+          "icon": "/images/flags/en.svg",
+          "level": "B1-B2"
+        },
+        {
+          "name": "Persisch",
+          "icon": "/images/flags/ir.svg",
+          "level": "Muttersprache"
+        },
+        {
+          "name": "Deutsch",
+          "icon": "/images/flags/de.svg",
+          "level": "A2"
+        },
+        {
+          "name": "Aserbaidschanisch",
+          "icon": "/images/flags/az.svg",
+          "level": "Fließend"
+        }
+      ]
+    }
+
+  ],
+  "academics": [
+    {
+      "logo": "/images/logo/sbu.webp",
+      "name": "Shahid Beheshti Universität",
+      "websiteLink": "https://en.sbu.ac.ir/",
+      "degree": "Informationstechnologie-Ingenieurwesen, (M.Sc.)",
+      "duration": "Sep. 2020 - Aug. 2022",
+      "location": "Iran, Teheran",
+      "description": "Während dieser Zeit habe ich neben dem Weiterführen meiner Studien im Bereich Softwarearchitektur (insbesondere fortgeschrittene Architekturen wie verteilte Systeme) an der Implementierung eines der wichtigsten Bestandteile dieser Architektur gearbeitet: das Management verteilter Logs im Datenwissenschaftslabor (ansässig an der Universität und unter der Aufsicht meines Professors).\n\nVor meinem Masterstudium hatte ich bereits umfangreiche Kenntnisse über verschiedene Aspekte der Softwareentwicklung und viele praktische Konzepte aus der Industrie erworben. Dennoch hatte ich noch Schwächen im Bereich der Forschung und Erkundung neuer, innovativer Themen. Daher entschied ich mich für ein Masterstudium in Informationstechnologie, um meine F&E (Forschung und Entwicklung)-Fähigkeiten zu verbessern.\n\nNach meinem Eintritt in das Masterprogramm an der Shahid Beheshti Universität konnte ich nicht nur fortgeschrittene Konzepte der Softwareentwicklung (z. B. fortgeschrittene Softwarearchitektur, großskalige Systeme usw.) erlernen, sondern auch meine akademischen Studien durch eine praktische Zusammenarbeit mit MavaraTech in der Industrie umsetzen."
+    },
+    {
+      "logo": "/images/logo/iasbs.webp",
+      "name": "Institute for advanced study in basic science",
+      "websiteLink": "https://iasbs.ac.ir/",
+      "degree": "Informationstechnologie-Ingenieurwesen (B.Sc.)",
+      "duration": "Sep. 2014 - Sep. 2018",
+      "location": "Iran, Zandschan",
+      "description": "In dieser Zeit begann ich als Spezialist für Software-Design, Entwicklung und Softwarearchitektur zu arbeiten. Gleichzeitig nahm ich an Universitätsprojekten teil und konnte sie erfolgreich zu meiner Liste abgeschlossener Projekte hinzufügen. Während meines Bachelor-Studiums habe ich neben dem Erlernen fachspezifischer Konzepte auch die Softwareentwicklungs- und Produktionsbranche kennengelernt. Deshalb betrachte ich diese Phase als die entscheidendste für die Entwicklung meiner Leidenschaft für Softwareentwicklung und meiner beruflichen Expertise. Neben verschiedenen Schulungen konnte ich wertvolle Erfahrungen sowohl im akademischen als auch im industriellen Bereich sammeln."
+    }
+  ],
+  "recognitions": [
+    {
+      "title": "Mitglied des Technischen Komitees – 4. Chemieschule",
+      "description": "Ich war Mitglied des Technischen Komitees der 4. Chemieschule, die am 1. und 2. Mai 2024 an der IASBS stattfand, und habe zum Erfolg der Veranstaltung beigetragen.",
+      "issuedBy": "Institute for Advanced Studies in Basic Sciences",
+      "date": "20. Juli 2024",
+      "logo": "/images/logo/iasbs.webp",
+      "link": "/images/recognitions/chemistry.jpg"
+    },
+    {
+      "title": "Zertifikat über die Teilnahme – Grundkurs Erste Hilfe",
+      "description": "Ich habe einen 62-stündigen Erste-Hilfe-Grundkurs (22 Stunden Theorie, 40 Stunden Praxis) absolviert, der von der Rotkreuzgesellschaft der Provinz Zanjan an der IASBS von April bis Juli 2024 durchgeführt wurde.",
+      "issuedBy": "Institute for Advanced Studies in Basic Sciences",
+      "date": "31. August 2024",
+      "logo": "/images/logo/iasbs.webp",
+      "link": "/images/recognitions/CRC_certificate.jpg"
+    },
+    {
+      "title": "Anerkennungszertifikat – IT-Unterstützung beim Internationalen Studententreffen",
+      "description": "Ich habe bei der Organisation des 1. Internationalen Studententreffens der Universitäten von Zanjan am 14. Februar 2024 an der IASBS mitgewirkt. Dabei war ich für die technische Unterstützung und IT-Koordination verantwortlich, was zum Erfolg der Veranstaltung beigetragen hat.",
+      "issuedBy": "Institute for Advanced Studies in Basic Sciences",
+      "date": "3. März 2024",
+      "logo": "/images/logo/iasbs.webp",
+      "link": "/images/recognitions/OSIC.jpg"
+    }
+  ]
+}
