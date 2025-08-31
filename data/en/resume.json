@@ -425,6 +425,22 @@
       "date": "March 3, 2024",
       "logo": "/images/logo/iasbs.webp",
       "link": "/images/recognitions/OSIC.jpg"
-    }
+    },
+    {
+      "title": "Certificate of Completion – CCNA Training Course",
+      "description": "I successfully completed the specialized CCNA training course at ACECR – Zanjan University Unit, with a final grade of 91 out of 100. During this course, I gained in-depth knowledge of networking fundamentals, including the OSI and TCP/IP models, IP addressing and subnetting, LAN and WAN technologies, routing and switching concepts, VLAN configuration, network security basics, and troubleshooting techniques. This program strengthened both my theoretical understanding and practical skills in computer networking.",
+      "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
+      "date": "January 15, 2017",
+      "logo": "/images/logo/acecr.webp",
+      "link": "/images/recognitions/CCNA_Certificate.jpg"
+    },
+    {
+      "title": "Certificate of Completion – Fundamentals of Computer Networks (CompTIA Network+)",
+      "description": "I successfully completed the course 'Fundamentals of Computer Networks (based on CompTIA Network+)' at ACECR – Zanjan University Unit, achieving a final grade of 91 out of 100. During this course, I developed a strong understanding of networking principles, including the OSI and TCP/IP models, network devices and topologies, cabling and media, IP addressing and subnetting, LAN and WAN technologies, routing and switching basics, wireless networking, and introductory network security concepts. This program enhanced my theoretical knowledge and provided me with solid practical skills in computer networking.",
+      "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
+      "date": "August 31, 2016",
+      "logo": "/images/logo/acecr.webp",
+      "link": "/images/recognitions/Network_Certificate.jpg"
+     }
   ]
 }
