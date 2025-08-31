@@ -441,6 +441,22 @@
       "date": "August 31, 2016",
       "logo": "/images/logo/acecr.webp",
       "link": "/images/recognitions/Network_Certificate.jpg"
-     }
+     },
+    {
+      "title": "Teilnahmebescheinigung – CCNA-Schulung",
+      "description": "Ich habe den spezialisierten CCNA-Schulungskurs am ACECR – Universitätseinheit Zanjan erfolgreich abgeschlossen und die Endnote 91 von 100 erreicht. Während dieses Kurses habe ich umfassende Kenntnisse in den Grundlagen der Netzwerktechnik erworben, darunter OSI- und TCP/IP-Modelle, IP-Adressierung und Subnetting, LAN- und WAN-Technologien, Routing- und Switching-Konzepte, VLAN-Konfiguration, Grundlagen der Netzwerksicherheit sowie Fehlersuche und -behebung. Dieses Programm hat sowohl mein theoretisches Verständnis als auch meine praktischen Fähigkeiten in der Computernetzwerktechnik gestärkt.",
+      "issuedBy": "Akademisches Zentrum für Bildung, Kultur und Forschung (ACECR) – Universitätseinheit Zanjan",
+      "date": "15. Januar 2017",
+      "logo": "/images/logo/acecr.webp",
+      "link": "/images/recognitions/CCNA_Certificate.jpg"
+    },
+    {
+      "title": "Teilnahmebescheinigung – Grundlagen der Computernetzwerke (CompTIA Network+)",
+      "description": "Ich habe den Kurs 'Fundamentals of Computer Networks (basierend auf CompTIA Network+)' am ACECR – Universitätseinheit Zanjan erfolgreich abgeschlossen und die Endnote 91 von 100 erreicht. In diesem Kurs habe ich ein fundiertes Verständnis der Netzwerktechnologien entwickelt, darunter OSI- und TCP/IP-Modelle, Netzwerkgeräte und -topologien, Verkabelung und Übertragungsmedien, IP-Adressierung und Subnetting, LAN- und WAN-Technologien, Grundlagen von Routing und Switching, drahtlose Netzwerke sowie Einführung in Netzwerksicherheit. Dieses Programm hat mein theoretisches Wissen erweitert und meine praktischen Fähigkeiten in der Netzwerktechnik gestärkt.",
+      "issuedBy": "Akademisches Zentrum für Bildung, Kultur und Forschung (ACECR) – Universitätseinheit Zanjan",
+      "date": "31. August 2016",
+      "logo": "/images/logo/acecr.webp",
+      "link": "/images/recognitions/Network_Certificate.jpg"
+    }
   ]
 }
