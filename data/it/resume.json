@@ -1,0 +1,263 @@
+{
+  "name": "Hamed Rostamkhani",
+  "titles": "Software Engineer & Full-Stack Developer",
+  "photo": "/images/profile.webp",
+  "socialLinks": [
+    {
+      "name": "Email",
+      "description": "Invia email",
+      "href": "mailto:hamederostamkhani@gmail.com"
+    },
+    {
+      "name": "Location",
+      "description": "Visualizza posizione",
+      "href": "https://www.google.com/maps?q=Zanjan"
+    },
+    {
+      "name": "Telegram",
+      "description": "Contatto Telegram",
+      "href": "https://t.me/hamed_rostamkhani"
+    },
+    {
+      "name": "GitHub",
+      "description": "Profilo GitHub",
+      "href": "https://github.com/hamederostamkhani"
+    }
+  ],
+  "aboutMe": {
+    "starting": "Sono un Software Engineer e Full-Stack Developer con oltre 5 anni di esperienza nella progettazione e nello sviluppo di applicazioni scalabili e ad alte prestazioni. La mia competenza spazia su Java, Spring Boot, Vue.js e architetture a microservizi. Con una solida base nello sviluppo backend, nel design frontend e nell'ottimizzazione dei database, sono appassionato di costruire sistemi efficienti e robusti. Attualmente mi sto concentrando sull'apprendimento e sull'esplorazione dell'integrazione dell'Intelligenza Artificiale e dell'IoT nei sistemi software e nelle architetture a microservizi, con l'obiettivo di sviluppare applicazioni intelligenti, automatizzate e interconnesse che migliorino funzionalità, reattività ed esperienza utente.",
+    "whatIDo": {
+      "title": "Cosa faccio",
+      "list": [
+        "Progettazione e sviluppo di architetture basate su microservizi per garantire scalabilità e flessibilità.",
+        "Ottimizzazione delle prestazioni del backend e delle query sui database per massimizzare l’efficienza.",
+        "Sviluppo di sistemi backend affidabili utilizzando Java e Spring Boot a supporto di diverse esigenze aziendali.",
+        "Utilizzo di tecnologie moderne come Docker e Git per migliorare i flussi di sviluppo e deployment.",
+        "Applicazione dei principi SOLID e dei design pattern per realizzare applicazioni manutenibili e scalabili.",
+        "Implementazione di API RESTful per garantire una comunicazione fluida ed efficace tra i servizi."
+      ]
+    },
+    "closing": "💡 In continua formazione, 🚀 in costante miglioramento"
+  },
+  "careers": [
+    {
+      "logo": "/images/logo/freelancer.svg",
+      "name": "Sviluppo Professionale Autodiretto",
+      "position": "Software Engineer • Apprendimento e Sviluppo di Progetti Focalizzati sull'IA",
+      "duration": "Nov 2024 - Presente",
+      "location": "Iran, Zanjan",
+      "description": "Da novembre 2024 sono impegnato in una fase mirata di sviluppo professionale autodiretto, con l'obiettivo di rafforzare le mie competenze di inglese accademico e costruire una solida base teorica nell'intelligenza artificiale, mantenendo al contempo una solida esperienza nello sviluppo software. In questo periodo, il mio focus principale è stato lo studio dei concetti fondamentali di IA e machine learning, la comprensione degli algoritmi di base e la preparazione per progetti applicativi in sistemi basati sull'IA.",
+      "points": [
+        "Preparazione all'esame IELTS con enfasi sulle competenze linguistiche accademiche e professionali.",
+        "Studio dei concetti fondamentali dell'intelligenza artificiale e del machine learning, con attenzione alle teorie di base, agli algoritmi e agli approcci basati sui dati.",
+        "Sviluppo di basi teoriche per futuri progetti IA che combinano le pratiche di software engineering con tecniche IA applicate.",
+        "Progettazione e implementazione di progetti portfolio per dimostrare principi di clean code, design modulare e capacità di problem-solving.",
+        "Esplorazione dell'integrazione di componenti IA in architetture a microservizi e sistemi distribuiti per applicazioni intelligenti scalabili."
+      ]
+    },
+    {
+      "logo": "/images/logo/iasbs.webp",
+      "name": "Institute for Advanced Studies in Basic Sciences (IASBS)",
+      "websiteLink": "https://iasbs.ac.ir/",
+      "position": "Software Engineer • Specialista IT",
+      "duration": "Giu 2023 - Nov 2024",
+      "location": "Iran, Zanjan",
+      "description": "Mi sono unito all'Istituto per Studi Avanzati nelle Scienze di Base (IASBS) come Software Engineer e Specialista IT, lavorando in combinazione su sviluppo software e supporto tecnico IT in un ambiente accademico. In questo periodo ho progettato e implementato diverse applicazioni web leggere per supportare i flussi di lavoro accademici e amministrativi. Parallelamente, ho contribuito all'organizzazione tecnica di conferenze scientifiche ed eventi accademici, garantendo sistemi affidabili e un'esecuzione fluida.",
+      "points": [
+        "Progettazione e implementazione di mini applicazioni web per supportare processi accademici e amministrativi.",
+        "Sviluppo di funzionalità backend utilizzando tecnologie PHP, combinato con Vue.js per il frontend e utilizzo di Git per il controllo versione e la collaborazione.",
+        "Fornitura di supporto tecnico e IT per conferenze ed eventi accademici, garantendo affidabilità e stabilità del sistema.",
+        "Supporto nella configurazione, manutenzione e risoluzione dei problemi dei sistemi durante eventi accademici live."
+      ]
+    },
+    {
+      "logo": "/images/logo/sinapardazesh.webp",
+      "name": "Sina Pardazesh Zanjan Co.",
+      "websiteLink": "https://www.sinapardazesh.com/",
+      "position": "Full-Stack Software Developer • Software Engineer",
+      "duration": "Nov 2018 - Mar 2023",
+      "location": "Iran, Zanjan",
+      "description": "Nella mia seconda fase professionale, mi sono unito a Sina Pardazesh Company come Software Engineer a tempo pieno, passando da sviluppatore stagista a ingegnere full-stack professionista. Questo ruolo ha svolto un ruolo chiave nella formazione della mia comprensione delle moderne architetture software, in particolare dei sistemi basati su microservizi e degli strumenti di livello produttivo. In questa fase ho ampliato significativamente il mio stack tecnico e applicato concetti avanzati di software engineering, precedentemente studiati all'università, in progetti reali.",
+      "points": [
+        "Progettazione e sviluppo di applicazioni web full-stack, lavorando sia sul backend che sul frontend, e partecipazione attiva alla transizione da architetture monolitiche a sistemi basati su microservizi per migliorare scalabilità e modularità.",
+        "Implementazione di soluzioni sicure di autenticazione e autorizzazione utilizzando JWT, OAuth2 e Keycloak, garantendo controllo degli accessi, permessi basati sui ruoli e comunicazione sicura tra i servizi.",
+        "Progettazione, ottimizzazione e manutenzione di applicazioni basate su database relazionali (MySQL, PostgreSQL) e soluzioni NoSQL (MongoDB), con attenzione all'integrità dei dati, performance ed efficienza delle query.",
+        "Applicazione di modelli architetturali moderni, inclusi API Gateway, containerizzazione con Docker e principi di progettazione di sistemi distribuiti, per supportare sistemi scalabili, manutenibili e pronti per la produzione.",
+        "Sviluppo e manutenzione di microservizi con Java e Spring Framework per il backend e Vue.js per il frontend, integrando soluzioni di messaggistica e dati come Apache Kafka, PostgreSQL e MongoDB per migliorare affidabilità e performance del sistema."
+      ]
+    },
+    {
+      "logo": "/images/logo/behinsayar.webp",
+      "name": "Pardazeshgaran Behin Sayar Co.",
+      "websiteLink": "https://ir.linkedin.com/company/behinsayar",
+      "position": "Stagista • Backend Developer",
+      "duration": "Giu 2017 - Lug 2018",
+      "location": "Iran, Zanjan",
+      "description": "Questo tirocinio ha rappresentato la mia prima esperienza pratica nel settore durante gli studi universitari, dove sono stato introdotto allo sviluppo backend reale attraverso un sistema di gestione dei pazienti per un ospedale nella mia città natale. Durante questo periodo, ho costruito solide basi nelle tecnologie backend e nelle pratiche di sviluppo software, passando gradualmente dai concetti accademici all'implementazione pratica. Ho lavorato principalmente con Java e Spring Framework, che in seguito sono diventati il mio stack backend principale. Parallelamente allo sviluppo backend, ho acquisito esperienza con sistemi di database e tecnologie frontend di base, comprendendo la struttura end-to-end delle applicazioni web.",
+      "points": [
+        "Sviluppo di componenti backend per un sistema di gestione dei pazienti ospedalieri, lavorando con modelli di dati e logiche aziendali reali.",
+        "Realizzazione di componenti backend con Java e Spring Framework, apprendimento di concetti fondamentali come architettura a strati, dependency injection e sviluppo di servizi RESTful.",
+        "Familiarizzazione con progettazione di applicazioni basate su database, comprendendo progressivamente i limiti degli approcci solo ORM e l'importanza di conoscere il comportamento sottostante del database.",
+        "Prima esperienza nello sviluppo frontend con Angular, implementando un'interfaccia utente di livello base per un progetto UI Builder.",
+        "Comprensione dei flussi di lavoro end-to-end delle applicazioni, dai servizi backend e persistenza dei dati all'integrazione frontend di base."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Applicazioni Web",
+      "list": [
+        {
+          "title": "Event Schedule System",
+          "description": "Applicazione che visualizza il calendario degli eventi dell’Institute for Advanced Studies in Basic Sciences, consentendo agli utenti di consultare i programmi in base alle diverse sale. Il progetto è stato sviluppato da me come full-stack developer; il backend è integrato nel sistema Phoenix dell’istituto.",
+          "imageUrl": "/images/projects/conference_schedule.webp",
+          "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
+          "startDate": "2023-07-08",
+          "endDate": "2023-09-20",
+          "tags": ["PHP", "Codeigniter", "JavaScript", "MySQL"]
+        },
+        {
+          "title": "Conference Histories",
+          "description": "Pagina che presenta conferenze passate e future organizzate dall’Institute for Advanced Studies in Basic Sciences, includendo nomi degli eventi, date e tematiche. Il progetto è stato coordinato da me: ho curato il design della pagina, sviluppato il backend nel sistema Phoenix dell’istituto e organizzato accuratamente i dati.",
+          "imageUrl": "/images/projects/conference_histories.webp",
+          "demoUrl": "https://iasbs.ac.ir/conference_history",
+          "startDate": "2024-02-20",
+          "endDate": "2024-05-19",
+          "tags": ["PHP", "Codeigniter", "JavaScript", "MySQL", "TailwindCSS"]
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Linguaggi di Programmazione",
+      "subtitle": "Categoria che comprende linguaggi di programmazione, script e linguaggi di markup utilizzati negli ultimi anni",
+      "logo": "/images/skills/programingIcon.svg",
+      "list": [
+        { "name": "Java", "icon": "/images/skills/programming/java.svg", "level": "5+ anni" },
+        { "name": "Groovy", "icon": "/images/skills/programming/groovy.svg", "level": "3 anni" },
+        { "name": "JavaScript", "icon": "/images/skills/programming/javascript.svg", "level": "4+ anni" },
+        { "name": "Kotlin", "icon": "/images/skills/programming/kotlin.svg", "level": "1 anno" },
+        { "name": "PHP", "icon": "/images/skills/programming/php.svg", "level": "1+ anni" },
+        { "name": "TypeScript", "icon": "/images/skills/programming/typescript.svg", "level": "1 anno" },
+        { "name": "HTML 5", "icon": "/images/skills/programming/html.svg", "level": "4 anni" },
+        { "name": "CSS 3", "icon": "/images/skills/programming/css.svg", "level": "4 anni" },
+        { "name": "SQL", "icon": "/images/skills/programming/sql.svg", "level": "5+ anni" },
+        { "name": "Python", "icon": "/images/skills/programming/python.svg", "level": "1 anno" }
+      ]
+    },
+    {
+      "title": "Frameworks & Libraries",
+      "subtitle": "Framework e librerie moderne utilizzate per lo sviluppo di applicazioni",
+      "logo": "/images/skills/libraryIcon.svg",
+      "list": [
+        { "name": "Spring", "icon": "/images/skills/frameworks/spring.svg", "level": "5+ anni" },
+        { "name": "Vue.js", "icon": "/images/skills/frameworks/vue.svg", "level": "4+ anni" },
+        { "name": "Hibernate", "icon": "/images/skills/frameworks/hibernate.svg", "level": "4+ anni" },
+        { "name": "Tailwind CSS", "icon": "/images/skills/frameworks/tailwind.svg", "level": "3+ anni" },
+        { "name": "Angular (2+)", "icon": "/images/skills/frameworks/angular.svg", "level": "1 anno" },
+        { "name": "Laravel", "icon": "/images/skills/frameworks/laravel.svg", "level": "1+ anni" },
+        { "name": "Node.js", "icon": "/images/skills/frameworks/nodejs.svg", "level": "1 anno" },
+        { "name": "Express.js", "icon": "/images/skills/frameworks/express.svg", "level": "1 anno" },
+        { "name": "Bootstrap", "icon": "/images/skills/frameworks/bootstrap.svg", "level": "1 anno" }
+      ]
+    },
+    {
+      "title": "Database",
+      "subtitle": "Tecnologie di database utilizzate, inclusi SQL, NoSQL e database in-memory",
+      "logo": "/images/skills/databaseIcon.svg",
+      "list": [
+        { "name": "MySQL", "icon": "/images/skills/database/mysql.svg", "level": "5+ anni" },
+        { "name": "PostgreSQL", "icon": "/images/skills/database/postgresql.svg", "level": "4+ anni" },
+        { "name": "MongoDB", "icon": "/images/skills/database/mongodb.svg", "level": "1+ anni" },
+        { "name": "Redis", "icon": "/images/skills/database/redis.svg", "level": "1 anno" },
+        { "name": "Splunk", "icon": "/images/skills/database/splunk.svg", "level": "1 anno" }
+      ]
+    },
+    {
+      "title": "Strumenti e Tecnologie",
+      "subtitle": "Strumenti essenziali per sviluppo, containerizzazione, versionamento, test delle API e gestione dei progetti",
+      "logo": "/images/skills/toolsIcon.svg",
+      "list": [
+        { "name": "Docker", "icon": "/images/skills/tools/docker.svg", "level": "3+ anni" },
+        { "name": "Git", "icon": "/images/skills/tools/git.svg", "level": "3+ anni" },
+        { "name": "Linux", "icon": "/images/skills/tools/linux.svg", "level": "5+ anni" },
+        { "name": "Insomnia", "icon": "/images/skills/tools/insomnia.svg", "level": "2+ anni" },
+        { "name": "Postman", "icon": "/images/skills/tools/postman.svg", "level": "2+ anni" },
+        { "name": "Swagger", "icon": "/images/skills/tools/swagger.svg", "level": "1+ anni" },
+        { "name": "Trello", "icon": "/images/skills/tools/trello.svg", "level": "1+ anni" }
+      ]
+    },
+    {
+      "title": "Concetti",
+      "subtitle": "Principali concetti di sviluppo software appresi attraverso formazione ed esperienza",
+      "logo": "/images/skills/conceptIcon.svg",
+      "list": [
+        { "name": "RESTful APIs", "icon": "/images/concept/api.svg", "level": "5+ anni" },
+        { "name": "Microservices", "icon": "/images/concept/microservices.svg", "level": "3+ anni" },
+        { "name": "Distributed Systems", "icon": "/images/concept/distributed.svg", "level": "3+ anni" },
+        { "name": "SOLID Principles", "icon": "/images/concept/solid.svg", "level": "4+ anni" },
+        { "name": "Design Patterns", "icon": "/images/concept/pattern.svg", "level": "3+ anni" },
+        { "name": "Agile Methodologies", "icon": "/images/concept/agile.svg", "level": "2+ anni" },
+        { "name": "Security", "icon": "/images/concept/security.svg", "level": "1+ anni" },
+        { "name": "Containerization", "icon": "/images/concept/containerization.svg", "level": "2+ anni" }
+      ]
+    },
+    {
+      "title": "Lingue",
+      "subtitle": "Lingue parlate e utilizzate in contesti professionali e accademici",
+      "logo": "/images/skills/languageIcon.svg",
+      "list": [
+        { "name": "English", "icon": "/images/flags/en.svg", "level": "IELTS 6.5" },
+        { "name": "Persian", "icon": "/images/flags/ir.svg", "level": "Madrelingua" },
+        { "name": "German", "icon": "/images/flags/de.svg", "level": "A2" },
+        { "name": "Azari", "icon": "/images/flags/az.svg", "level": "Fluente" }
+      ]
+    }
+  ],
+  "academics": [
+    {
+      "logo": "/images/logo/iasbs.webp",
+      "name": "Institute for advanced study in basic science",
+      "websiteLink": "https://iasbs.ac.ir/",
+      "degree": "Information Technology Engineering, (B.Sc.)",
+      "duration": "Sep 2014 - Sep 2018",
+      "location": "Iran, Zanjan",
+      "description": "Durante questo periodo ho iniziato a lavorare come specialista nella progettazione, sviluppo e architettura di sistemi software. Parallelamente ho partecipato a progetti universitari, integrandoli con successo nel mio portfolio professionale. Nel corso degli studi triennali, oltre all’apprendimento dei concetti teorici fondamentali, ho acquisito una conoscenza concreta del settore dello sviluppo e della produzione software. Considero questa fase come la più determinante nella costruzione della mia passione per lo sviluppo software e della mia competenza professionale, grazie anche alle esperienze maturate sia in ambito accademico sia industriale."
+    }
+  ],
+  "recognitions": [
+    {
+      "title": "Attestato di completamento – CCNA Training Course",
+      "description": "Ho completato con successo il corso specialistico CCNA presso ACECR – Zanjan University Unit, ottenendo una valutazione finale di 91/100. Il corso ha approfondito concetti fondamentali di networking, tra cui modelli OSI e TCP/IP, indirizzamento IP e subnetting, tecnologie LAN e WAN, routing e switching, configurazione VLAN, basi di sicurezza di rete e tecniche di troubleshooting.",
+      "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
+      "date": "January 15, 2017",
+      "logo": "/images/logo/acecr.webp",
+      "link": "/images/recognitions/CCNA_Certificate.jpg"
+    },
+    {
+      "title": "Attestato di completamento – Fundamentals of Computer Networks (CompTIA Network+)",
+      "description": "Ho completato con successo il corso \"Fundamentals of Computer Networks (basato su CompTIA Network+)\" presso ACECR – Zanjan University Unit, con una valutazione finale di 91/100. Il percorso formativo ha fornito una solida preparazione sui principi delle reti di calcolatori, inclusi modelli OSI e TCP/IP, dispositivi e topologie di rete, cablaggio, indirizzamento IP, tecnologie LAN e WAN, basi di routing e switching, reti wireless e concetti introduttivi di sicurezza di rete.",
+      "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
+      "date": "August 31, 2016",
+      "logo": "/images/logo/acecr.webp",
+      "link": "/images/recognitions/Network_Certificate.jpg"
+    },
+    {
+      "title": "Membro del Comitato Tecnico – 4th Chemistry School",
+      "description": "Ho ricoperto il ruolo di membro del Comitato Tecnico della 4th Chemistry School, tenutasi il 1–2 maggio 2024 presso IASBS, contribuendo attivamente al successo dell’evento.",
+      "issuedBy": "Institute for Advanced Studies in Basic Sciences",
+      "date": "July 20, 2024",
+      "logo": "/images/logo/iasbs.webp",
+      "link": "/images/recognitions/chemistry.jpg"
+    },
+    {
+      "title": "Attestato di completamento – Basic First Aid Training",
+      "description": "Ho completato un corso di formazione di 62 ore in Basic First Aid (22 ore teoriche e 40 ore pratiche), organizzato dalla Red Crescent Society della provincia di Zanjan presso IASBS, da aprile a luglio 2024.",
+      "issuedBy": "Institute for Advanced Studies in Basic Sciences",
+      "date": "August 31, 2024",
+      "logo": "/images/logo/iasbs.webp",
+      "link": "/images/recognitions/CRC_certificate.jpg"
+    }
+  ]
+}
