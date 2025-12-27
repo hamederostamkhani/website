@@ -211,14 +211,14 @@
         { "name": "English", "icon": "/images/flags/en.svg", "level": "IELTS 6.5" },
         { "name": "Persian", "icon": "/images/flags/ir.svg", "level": "Madrelingua" },
         { "name": "German", "icon": "/images/flags/de.svg", "level": "A2" },
-        { "name": "Azari", "icon": "/images/flags/az.svg", "level": "Fluente" }
+        { "name": "Azerbaijani", "icon": "/images/flags/az.svg", "level": "Fluente" }
       ]
     }
   ],
   "academics": [
     {
       "logo": "/images/logo/iasbs.webp",
-      "name": "Institute for advanced study in basic science",
+      "name": "Institute for Advanced Studies in Basic Sciences",
       "websiteLink": "https://iasbs.ac.ir/",
       "degree": "Information Technology Engineering, (B.Sc.)",
       "duration": "Sep 2014 - Sep 2018",
@@ -260,4 +260,5 @@
       "link": "/images/recognitions/CRC_certificate.jpg"
     }
   ]
+
 }
