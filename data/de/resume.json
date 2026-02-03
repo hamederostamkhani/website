@@ -135,19 +135,23 @@
             "MySQL",
             "TailwindCSS"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "title": "AI & DS",
+      "list": [
         {
-          "title": "GitHub-Projekte & Codebeispiele",
-          "description": "Ich pflege mehrere Projekte auf GitHub in den Bereichen Software Engineering, Künstliche Intelligenz und Data Science. Jedes Projekt enthält vollständigen Quellcode, Dokumentation und Demos und zeigt meine Fähigkeiten in Entwicklung, Problemlösung und praktischen AI- und Datenlösungen.",
+          "title": "Künstliche Intelligenz und Data Science",
+          "description": "Dieses Repository enthält anfängerfreundliche und unterhaltsame Projekte im Bereich der Künstlichen Intelligenz und Data Science.\nEs zeigt meine Erkundungen in den Bereichen KI, maschinelles Lernen und Datenanalyse und dient als Spielwiese zum Lernen, Experimentieren und zum schrittweisen Aufbau fortgeschrittener Fähigkeiten.",
           "imageUrl": "/images/projects/ai_repository.webp",
-          "srcUrl": "https://github.com/hamederostamkhani",
+          "srcUrl": "https://github.com/hamederostamkhani/ai-and-data-science",
+          "startDate": "2025-08-28",
           "tags": [
-            "Java",
             "Python",
-            "Javascript",
-            "PostgreSQL",
-            "Microservices",
-            "Data Science & AI",
+            "Data Analysis",
+            "Data Science",
+            "Machine Learning",
             "..."
           ]
         }

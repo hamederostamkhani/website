@@ -124,19 +124,23 @@
           "startDate": "2024-02-20",
           "endDate": "2024-05-19",
           "tags": ["PHP", "Codeigniter", "JavaScript", "MySQL", "TailwindCSS"]
-        },
+        }
+      ]
+    },
+    {
+      "title": "AI & DS",
+      "list": [
         {
-          "title": "Progetti GitHub e Campioni di Codice",
-          "description": "Mantengo diversi progetti su GitHub in ingegneria del software, intelligenza artificiale e data science. Ogni progetto include codice sorgente completo, documentazione e demo, dimostrando le mie competenze nello sviluppo, problem solving e soluzioni pratiche AI e dati.",
+          "title": "Intelligenza Artificiale e Data Science",
+          "description": "Questo repository contiene progetti divertenti e adatti ai principianti nei campi dell’Intelligenza Artificiale e della Data Science.\nMostra le mie esplorazioni nell’AI, nel machine learning e nell’analisi dei dati, fungendo da spazio di sperimentazione per l’apprendimento, la pratica e lo sviluppo graduale di competenze più avanzate.",
           "imageUrl": "/images/projects/ai_repository.webp",
-          "srcUrl": "https://github.com/hamederostamkhani",
+          "srcUrl": "https://github.com/hamederostamkhani/ai-and-data-science",
+          "startDate": "2025-08-28",
           "tags": [
-            "Java",
             "Python",
-            "Javascript",
-            "PostgreSQL",
-            "Microservices",
-            "Data Science & AI",
+            "Data Analysis",
+            "Data Science",
+            "Machine Learning",
             "..."
           ]
         }
