@@ -109,7 +109,7 @@
       "list": [
         {
           "title": "Event Schedule System",
-          "description": "Applicazione che visualizza il calendario degli eventi dell’Institute for Advanced Studies in Basic Sciences, consentendo agli utenti di consultare i programmi in base alle diverse sale. Il progetto è stato sviluppato da me come full-stack developer; il backend è integrato nel sistema Phoenix dell’istituto.",
+          "description": "Ho sviluppato un progetto full-stack che mostra il programma degli eventi dell’Institute for Advanced Studies in Basic Sciences, permettendo agli utenti di visualizzare i programmi per diverse sale. Il backend è integrato nel sistema Phoenix dell’istituto.",
           "imageUrl": "/images/projects/conference_schedule.webp",
           "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
           "startDate": "2023-07-08",
@@ -118,12 +118,27 @@
         },
         {
           "title": "Conference Histories",
-          "description": "Pagina che presenta conferenze passate e future organizzate dall’Institute for Advanced Studies in Basic Sciences, includendo nomi degli eventi, date e tematiche. Il progetto è stato coordinato da me: ho curato il design della pagina, sviluppato il backend nel sistema Phoenix dell’istituto e organizzato accuratamente i dati.",
+          "description": "Ho guidato lo sviluppo di una pagina che mostra conferenze passate e future dell’Institute for Advanced Studies in Basic Sciences, con nomi, date e temi come “8th Earth Sciences School.” Ho progettato la pagina, sviluppato il backend in Phoenix e organizzato tutti i dati.",
           "imageUrl": "/images/projects/conference_histories.webp",
           "demoUrl": "https://iasbs.ac.ir/conference_history",
           "startDate": "2024-02-20",
           "endDate": "2024-05-19",
           "tags": ["PHP", "Codeigniter", "JavaScript", "MySQL", "TailwindCSS"]
+        },
+        {
+          "title": "Progetti GitHub e Campioni di Codice",
+          "description": "Mantengo diversi progetti su GitHub in ingegneria del software, intelligenza artificiale e data science. Ogni progetto include codice sorgente completo, documentazione e demo, dimostrando le mie competenze nello sviluppo, problem solving e soluzioni pratiche AI e dati.",
+          "imageUrl": "/images/projects/ai_repository.webp",
+          "srcUrl": "https://github.com/hamederostamkhani",
+          "tags": [
+            "Java",
+            "Python",
+            "Javascript",
+            "PostgreSQL",
+            "Microservices",
+            "Data Science & AI",
+            "..."
+          ]
         }
       ]
     }
@@ -229,15 +244,15 @@
   "recognitions": [
     {
       "title": "Attestato di completamento – CCNA Training Course",
-      "description": "Ho completato con successo il corso specialistico CCNA presso ACECR – Zanjan University Unit, ottenendo una valutazione finale di 91/100. Il corso ha approfondito concetti fondamentali di networking, tra cui modelli OSI e TCP/IP, indirizzamento IP e subnetting, tecnologie LAN e WAN, routing e switching, configurazione VLAN, basi di sicurezza di rete e tecniche di troubleshooting.",
+      "description": "Ho completato il corso CCNA presso ACECR – Zanjan University con 91/100, acquisendo solide conoscenze teoriche e competenze pratiche in networking, inclusi modelli OSI/TCP-IP, indirizzamento IP, VLAN, routing, switching e sicurezza di base.",
       "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
       "date": "January 15, 2017",
       "logo": "/images/logo/acecr.webp",
       "link": "/images/recognitions/CCNA_Certificate.jpg"
     },
     {
-      "title": "Attestato di completamento – Fundamentals of Computer Networks (CompTIA Network+)",
-      "description": "Ho completato con successo il corso \"Fundamentals of Computer Networks (basato su CompTIA Network+)\" presso ACECR – Zanjan University Unit, con una valutazione finale di 91/100. Il percorso formativo ha fornito una solida preparazione sui principi delle reti di calcolatori, inclusi modelli OSI e TCP/IP, dispositivi e topologie di rete, cablaggio, indirizzamento IP, tecnologie LAN e WAN, basi di routing e switching, reti wireless e concetti introduttivi di sicurezza di rete.",
+      "title": "Attestato di completamento – CompTIA Network+",
+      "description": "Ho completato il corso “Fundamentals of Computer Networks (CompTIA Network+)” presso ACECR – Zanjan University con 91/100, acquisendo conoscenze di base sul networking, modelli OSI/TCP-IP, indirizzamento IP, LAN/WAN, routing, switching, reti wireless e sicurezza di rete introduttiva.",
       "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
       "date": "August 31, 2016",
       "logo": "/images/logo/acecr.webp",
@@ -260,5 +275,4 @@
       "link": "/images/recognitions/CRC_certificate.jpg"
     }
   ]
-
 }

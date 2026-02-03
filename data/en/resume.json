@@ -109,7 +109,7 @@
       "list": [
         {
           "title": "Event Schedule System",
-          "description": "This page displays the event schedule of the Institute for Advanced Studies in Basic Sciences, allowing users to view event programs based on different halls. I developed this project as a full-stack developer, with its backend being part of the institute's Phoenix system.",
+          "description": "I developed a full-stack project displaying the event schedule of the Institute for Advanced Studies in Basic Sciences, allowing users to view programs by different halls. The backend was integrated with the institute’s Phoenix system, providing seamless data management.",
           "imageUrl": "/images/projects/conference_schedule.webp",
           "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
           "startDate": "2023-07-08",
@@ -118,12 +118,13 @@
             "PHP",
             "Codeigniter",
             "JavaScript",
-            "MySQL"
+            "MySQL",
+            "Authentication"
           ]
         },
         {
           "title": "Conference Histories",
-          "description": "The page showcases upcoming and past conferences organized by the Institute for Advanced Studies in Basic Sciences, including event names, dates, and topics like \"8th Earth Sciences School\" and \"26th Meeting on Research in Astronomy.\" This project was led by me, where I designed the page and developed the backend in the institute's Phoenix system. Additionally, I invested considerable effort in gathering and organizing the data.",
+          "description": "I led the development of a page showcasing upcoming and past conferences at the Institute for Advanced Studies in Basic Sciences, displaying event names, dates, and topics like “8th Earth Sciences School.” I designed the page, developed the backend in Phoenix, and organized all event data.",
           "imageUrl": "/images/projects/conference_histories.webp",
           "demoUrl": "https://iasbs.ac.ir/conference_history",
           "startDate": "2024-02-20",
@@ -134,6 +135,25 @@
             "JavaScript",
             "MySQL",
             "TailwindCSS"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI & DS",
+      "list": [
+        {
+          "title": "AI and Data Science",
+          "description": "This repository contains beginner-friendly and fun projects in Artificial Intelligence and Data Science. It showcases my explorations into AI, machine learning, and data analysis, serving as a playground for learning, experimentation, and gradually building more advanced skills.",
+          "imageUrl": "/images/projects/ai_repository.webp",
+          "srcUrl": "https://github.com/hamederostamkhani/ai-and-data-science",
+          "startDate": "2025-08-28",
+          "tags": [
+            "Python",
+            "Data Analysis",
+            "Data Science",
+            "Machine Learning",
+            "..."
           ]
         }
       ]
@@ -412,15 +432,15 @@
   "recognitions": [
     {
       "title": "Certificate of Completion – CCNA Training Course",
-      "description": "I successfully completed the specialized CCNA training course at ACECR – Zanjan University Unit, with a final grade of 91 out of 100. During this course, I gained in-depth knowledge of networking fundamentals, including the OSI and TCP/IP models, IP addressing and subnetting, LAN and WAN technologies, routing and switching concepts, VLAN configuration, network security basics, and troubleshooting techniques. This program strengthened both my theoretical understanding and practical skills in computer networking.",
+      "description": "I completed the CCNA course at ACECR – Zanjan University with a score of 91/100, gaining strong theoretical knowledge and practical skills in networking, including OSI/TCP-IP models, IP addressing, VLANs, routing, switching, and basic network security.",
       "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
       "date": "January 15, 2017",
       "logo": "/images/logo/acecr.webp",
       "link": "/images/recognitions/CCNA_Certificate.jpg"
     },
     {
-      "title": "Certificate of Completion – Fundamentals of Computer Networks (CompTIA Network+)",
-      "description": "I successfully completed the course 'Fundamentals of Computer Networks (based on CompTIA Network+)' at ACECR – Zanjan University Unit, achieving a final grade of 91 out of 100. During this course, I developed a strong understanding of networking principles, including the OSI and TCP/IP models, network devices and topologies, cabling and media, IP addressing and subnetting, LAN and WAN technologies, routing and switching basics, wireless networking, and introductory network security concepts. This program enhanced my theoretical knowledge and provided me with solid practical skills in computer networking.",
+      "title": "Certificate of Completion – CompTIA Network+",
+      "description": "I completed the “Fundamentals of Computer Networks (CompTIA Network+)” course at ACECR – Zanjan University with 91/100, learning networking basics, OSI/TCP-IP models, IP addressing, LAN/WAN, routing, switching, wireless networks, and introductory network security.",
       "issuedBy": "Academic Center for Education, Culture and Research (ACECR) – Zanjan University Unit",
       "date": "August 31, 2016",
       "logo": "/images/logo/acecr.webp",

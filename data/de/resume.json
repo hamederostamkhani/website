@@ -109,7 +109,7 @@
       "list": [
         {
           "title": "Veranstaltungsplanungsystem",
-          "description": "Diese Seite zeigt den Veranstaltungsplan des Instituts für Fortgeschrittene Studien in den Grundwissenschaften. Benutzer können die Programme der Veranstaltungen nach verschiedenen Sälen anzeigen. Ich habe dieses Projekt als Full-Stack-Entwickler entwickelt, wobei das Backend Teil des Phoenix-Systems des Instituts ist.",
+          "description": "Ich entwickelte ein Full-Stack-Projekt, das den Veranstaltungsplan des Institute for Advanced Studies in Basic Sciences anzeigt und Nutzern ermöglicht, Programme nach verschiedenen Sälen zu sehen. Das Backend wurde ins Phoenix-System des Instituts integriert.",
           "imageUrl": "/images/projects/conference_schedule.webp",
           "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
           "startDate": "2023-07-08",
@@ -123,7 +123,7 @@
         },
         {
           "title": "Konferenzverläufe",
-          "description": "Die Seite zeigt bevorstehende und vergangene Konferenzen des Instituts für fortgeschrittene Studien in den Grundwissenschaften, einschließlich der Namen von Veranstaltungen, Daten und Themen wie „8. Erdwissenschaften-Schule“ und „26. Treffen zur Forschung in der Astronomie“. Dieses Projekt wurde von mir geleitet, wobei ich die Seite entworfen und das Backend im Phoenix-System des Instituts entwickelt habe. Außerdem habe ich viel Mühe in die Sammlung und Organisation der hier angezeigten Daten investiert.",
+          "description": "Ich leitete die Entwicklung einer Seite, die bevorstehende und vergangene Konferenzen am Institute for Advanced Studies in Basic Sciences zeigt, einschließlich Namen, Daten und Themen wie „8th Earth Sciences School“. Ich entwarf die Seite, entwickelte das Backend in Phoenix und organisierte alle Daten.",
           "imageUrl": "/images/projects/conference_histories.webp",
           "demoUrl": "https://iasbs.ac.ir/conference_history",
           "startDate": "2024-02-20",
@@ -134,6 +134,21 @@
             "JavaScript",
             "MySQL",
             "TailwindCSS"
+          ]
+        },
+        {
+          "title": "GitHub-Projekte & Codebeispiele",
+          "description": "Ich pflege mehrere Projekte auf GitHub in den Bereichen Software Engineering, Künstliche Intelligenz und Data Science. Jedes Projekt enthält vollständigen Quellcode, Dokumentation und Demos und zeigt meine Fähigkeiten in Entwicklung, Problemlösung und praktischen AI- und Datenlösungen.",
+          "imageUrl": "/images/projects/ai_repository.webp",
+          "srcUrl": "https://github.com/hamederostamkhani",
+          "tags": [
+            "Java",
+            "Python",
+            "Javascript",
+            "PostgreSQL",
+            "Microservices",
+            "Data Science & AI",
+            "..."
           ]
         }
       ]
@@ -413,15 +428,15 @@
   "recognitions": [
     {
       "title": "Teilnahmebescheinigung – CCNA-Schulung",
-      "description": "Ich habe den spezialisierten CCNA-Schulungskurs am ACECR – Universitätseinheit Zanjan erfolgreich abgeschlossen und die Endnote 91 von 100 erreicht. Während dieses Kurses habe ich umfassende Kenntnisse in den Grundlagen der Netzwerktechnik erworben, darunter OSI- und TCP/IP-Modelle, IP-Adressierung und Subnetting, LAN- und WAN-Technologien, Routing- und Switching-Konzepte, VLAN-Konfiguration, Grundlagen der Netzwerksicherheit sowie Fehlersuche und -behebung. Dieses Programm hat sowohl mein theoretisches Verständnis als auch meine praktischen Fähigkeiten in der Computernetzwerktechnik gestärkt.",
+      "description": "Ich habe den CCNA-Kurs an der ACECR – Zanjan University mit 91/100 abgeschlossen und fundierte theoretische Kenntnisse sowie praktische Fähigkeiten in Netzwerken erworben, einschließlich OSI/TCP-IP-Modelle, IP-Adressierung, VLANs, Routing, Switching und Grundsicherheitskonzepte.",
       "issuedBy": "Akademisches Zentrum für Bildung, Kultur und Forschung (ACECR) – Universitätseinheit Zanjan",
       "date": "15. Januar 2017",
       "logo": "/images/logo/acecr.webp",
       "link": "/images/recognitions/CCNA_Certificate.jpg"
     },
     {
-      "title": "Teilnahmebescheinigung – Grundlagen der Computernetzwerke (CompTIA Network+)",
-      "description": "Ich habe den Kurs 'Fundamentals of Computer Networks (basierend auf CompTIA Network+)' am ACECR – Universitätseinheit Zanjan erfolgreich abgeschlossen und die Endnote 91 von 100 erreicht. In diesem Kurs habe ich ein fundiertes Verständnis der Netzwerktechnologien entwickelt, darunter OSI- und TCP/IP-Modelle, Netzwerkgeräte und -topologien, Verkabelung und Übertragungsmedien, IP-Adressierung und Subnetting, LAN- und WAN-Technologien, Grundlagen von Routing und Switching, drahtlose Netzwerke sowie Einführung in Netzwerksicherheit. Dieses Programm hat mein theoretisches Wissen erweitert und meine praktischen Fähigkeiten in der Netzwerktechnik gestärkt.",
+      "title": "Teilnahmebescheinigung – CompTIA Network+",
+      "description": "Ich habe den Kurs „Fundamentals of Computer Networks (CompTIA Network+)“ an der ACECR – Zanjan University mit 91/100 abgeschlossen und Kenntnisse in Netzwerkgrundlagen, OSI/TCP-IP-Modellen, IP-Adressierung, LAN/WAN, Routing, Switching, WLAN und Netzwerksicherheit erworben.",
       "issuedBy": "Akademisches Zentrum für Bildung, Kultur und Forschung (ACECR) – Universitätseinheit Zanjan",
       "date": "31. August 2016",
       "logo": "/images/logo/acecr.webp",
