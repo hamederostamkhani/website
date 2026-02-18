@@ -265,6 +265,36 @@
           "name": "Bootstrap",
           "icon": "/images/skills/frameworks/bootstrap.svg",
           "level": "1 Jahr"
+        },
+        {
+          "name": "Numpy",
+          "icon": "/images/skills/frameworks/numpy.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Pandas",
+          "icon": "/images/skills/frameworks/pandas.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Matplotlib",
+          "icon": "/images/skills/frameworks/matplotlib.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Seaborn",
+          "icon": "/images/skills/frameworks/seaborn.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "Scikit-learn",
+          "icon": "/images/skills/frameworks/scikit_learn.svg",
+          "level": "1 Jahr"
+        },
+        {
+          "name": "PyTorch",
+          "icon": "/images/skills/frameworks/pyTorch.svg",
+          "level": "1 Jahr"
         }
       ]
     },

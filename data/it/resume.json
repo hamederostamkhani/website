@@ -190,7 +190,37 @@
         { "name": "PostgreSQL", "icon": "/images/skills/database/postgresql.svg", "level": "4+ anni" },
         { "name": "MongoDB", "icon": "/images/skills/database/mongodb.svg", "level": "1+ anni" },
         { "name": "Redis", "icon": "/images/skills/database/redis.svg", "level": "1 anno" },
-        { "name": "Splunk", "icon": "/images/skills/database/splunk.svg", "level": "1 anno" }
+        { "name": "Splunk", "icon": "/images/skills/database/splunk.svg", "level": "1 anno" },
+        {
+          "name": "Numpy",
+          "icon": "/images/skills/frameworks/numpy.svg",
+          "level": "1 anno"
+        },
+        {
+          "name": "Pandas",
+          "icon": "/images/skills/frameworks/pandas.svg",
+          "level": "1 anno"
+        },
+        {
+          "name": "Matplotlib",
+          "icon": "/images/skills/frameworks/matplotlib.svg",
+          "level": "1 anno"
+        },
+        {
+          "name": "Seaborn",
+          "icon": "/images/skills/frameworks/seaborn.svg",
+          "level": "1 anno"
+        },
+        {
+          "name": "Scikit-learn",
+          "icon": "/images/skills/frameworks/scikit_learn.svg",
+          "level": "1 anno"
+        },
+        {
+          "name": "PyTorch",
+          "icon": "/images/skills/frameworks/pyTorch.svg",
+          "level": "1 anno"
+        }
       ]
     },
     {
