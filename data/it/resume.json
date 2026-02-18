@@ -178,19 +178,7 @@
         { "name": "Laravel", "icon": "/images/skills/frameworks/laravel.svg", "level": "1+ anni" },
         { "name": "Node.js", "icon": "/images/skills/frameworks/nodejs.svg", "level": "1 anno" },
         { "name": "Express.js", "icon": "/images/skills/frameworks/express.svg", "level": "1 anno" },
-        { "name": "Bootstrap", "icon": "/images/skills/frameworks/bootstrap.svg", "level": "1 anno" }
-      ]
-    },
-    {
-      "title": "Database",
-      "subtitle": "Tecnologie di database utilizzate, inclusi SQL, NoSQL e database in-memory",
-      "logo": "/images/skills/databaseIcon.svg",
-      "list": [
-        { "name": "MySQL", "icon": "/images/skills/database/mysql.svg", "level": "5+ anni" },
-        { "name": "PostgreSQL", "icon": "/images/skills/database/postgresql.svg", "level": "4+ anni" },
-        { "name": "MongoDB", "icon": "/images/skills/database/mongodb.svg", "level": "1+ anni" },
-        { "name": "Redis", "icon": "/images/skills/database/redis.svg", "level": "1 anno" },
-        { "name": "Splunk", "icon": "/images/skills/database/splunk.svg", "level": "1 anno" },
+        { "name": "Bootstrap", "icon": "/images/skills/frameworks/bootstrap.svg", "level": "1 anno" },
         {
           "name": "Numpy",
           "icon": "/images/skills/frameworks/numpy.svg",
@@ -221,6 +209,18 @@
           "icon": "/images/skills/frameworks/pyTorch.svg",
           "level": "1 anno"
         }
+      ]
+    },
+    {
+      "title": "Database",
+      "subtitle": "Tecnologie di database utilizzate, inclusi SQL, NoSQL e database in-memory",
+      "logo": "/images/skills/databaseIcon.svg",
+      "list": [
+        { "name": "MySQL", "icon": "/images/skills/database/mysql.svg", "level": "5+ anni" },
+        { "name": "PostgreSQL", "icon": "/images/skills/database/postgresql.svg", "level": "4+ anni" },
+        { "name": "MongoDB", "icon": "/images/skills/database/mongodb.svg", "level": "1+ anni" },
+        { "name": "Redis", "icon": "/images/skills/database/redis.svg", "level": "1 anno" },
+        { "name": "Splunk", "icon": "/images/skills/database/splunk.svg", "level": "1 anno" }
       ]
     },
     {
