@@ -143,7 +143,7 @@
           "description": "sCardRecall ist eine plattformübergreifende Lernanwendung, die auf Spaced Repetition basiert. Das Projekt untersucht die Entwicklung eines flexiblen Lernsystems, das mehrere Wiederholungsalgorithmen unterstützen und im Laufe der Zeit um weitere Algorithmen erweitert werden kann. Es verbindet Backend-Entwicklung, Datenbankdesign, Frontend-Entwicklung und Entwicklung mobiler Anwendungen in einem einzigen Softwareprojekt.",
           "imageUrl": "/images/projects/sCardRecall.webp",
           "srcUrl": "https://github.com/hamederostamkhani/sCardRecall",
-          "startDate": "2026-03-28",
+          "startDate": "2026-07-28",
           "tags": ["Spring Boot", "Nuxt.js", "PostgreSQL", "Jetpack Compose", "Docker"]
         }
       ]
