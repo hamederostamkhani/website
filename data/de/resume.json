@@ -125,7 +125,7 @@
           "tags": ["PHP", "CodeIgniter", "JavaScript", "MySQL", "TailwindCSS"]
         },
         {
-          "title": "Einfaches Microservices-Shop-System",
+          "title": "Einfaches Microservices-Shop-App",
           "description": "Ein praktisches Lernprojekt, das entwickelt wurde, um grundlegende Konzepte der Microservices-Architektur zu lernen und zu zeigen. Das System umfasst Service Discovery, zentrale Konfiguration, API-Gateway-Integration, Kommunikation zwischen Services und die Bereitstellung mit Docker. Dadurch konnte ich praktische Erfahrungen mit dem Design verteilter Anwendungen sammeln.",
           "imageUrl": "/images/projects/microservice.webp",
           "srcUrl": "https://github.com/hamederostamkhani/microservice_architecture",
